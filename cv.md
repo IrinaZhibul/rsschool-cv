@@ -1,3 +1,5 @@
 # Iryna Zhybul
-Contact Information
-Work Experience
+## Contact Information
+## Work Experience
+## Education
+## Skills
