@@ -41,3 +41,7 @@ Languages
 * BELARUSIAN Native
 
 * POLISH Basic
+
+Education
+
+Belarusian State Technological University - Technology of medicines
