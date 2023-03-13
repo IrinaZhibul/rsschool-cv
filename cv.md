@@ -31,3 +31,13 @@ Courses:
 * JavaScript Manual on learnjavascript.ru
 
 * RS Schools «JavaScript/Front-end. Stage 0»
+
+Languages
+
+* ENGLISH Intermediate
+
+* RUSSIAN Native
+
+* BELARUSIAN Native
+
+* POLISH Basic
